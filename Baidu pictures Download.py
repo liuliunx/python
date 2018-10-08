@@ -4,6 +4,8 @@
 爬取百度图片的高清原图 
 Author          : MirrorMan 
 Created         : 2017-11-10 
+Modifier        ：liuliunx
+modification date:2018-7-16
 """  
 import re  
 import sys  
